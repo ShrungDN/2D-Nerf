@@ -9,7 +9,7 @@ This project is an attempt to perform super resolution of images by using concep
 - The right image is the regenerated image using positional encoding. 
 
 
-32 x 32 x 3 image results:
+: 32 x 32 x 3 image results: :
 
 ![cat_32x32_PE10_epoch5000](https://github.com/ShrungDN/2D-Nerf/assets/87622226/1289bd47-d651-434c-b9fe-e01924089e42)
 
