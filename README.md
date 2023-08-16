@@ -2,11 +2,11 @@
 
 This project is an attempt to perform super resolution of images by using concept of NeRF and Positional Encoding. In order to do this, a neural network is overfit on an image, i.e. the neural network learns the image representation in its weights. The following GIFs show how well a neural network can learn to regenerate an image. 
 
-The left most image is the ground truth image. 
+- The left most image is the ground truth image. 
 
-The middle image is the regenerated image without using positional encoding. 
+- The middle image is the regenerated image without using positional encoding. 
 
-The right image is the regenerated image using positional encoding. 
+- The right image is the regenerated image using positional encoding. 
 
 
 32 x 32 x 3 image results:
